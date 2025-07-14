@@ -1,0 +1,11 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+
+Ohgyu -> Bob: Authentication Request
+Bob --> Ohgyu: Authentication Response
+
+Ohgyu -> Bob: Another authentication Request
+Ohgyu <-- Bob: another authentication Response
+@enduml
