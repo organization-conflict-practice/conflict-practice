@@ -1,4 +1,4 @@
-# conflict-practice
+# README
 
 # 권오규
 lim jaesung
