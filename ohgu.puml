@@ -8,4 +8,5 @@ Bob --> Ohgyu: Authentication Response
 
 Ohgyu -> Bob: Another authentication Request
 Ohgyu <-- Bob: another authentication Response
-@endumlㅂ:ㅃㅂ:
+
+@enduml
